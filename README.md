@@ -20,10 +20,10 @@ You’ll need Node.js and npm installed on your machine to run this project.
 3. Navigate into the project directory:-
    cd your-youtube-clone
 
-4. Install npm packages:
+4. Install npm packages:-
    npm install
 
 5. Get an API key from Rapid API and set it in your environment variables.
 
-6. Running the Project
+6. Running the Project:-
    npm start
